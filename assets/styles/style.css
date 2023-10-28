@@ -11,7 +11,7 @@ body {
   color: white;
   font-size: 20px;
   font-weight: 400;
-  font-family: arial,sans-serif;
+  font-family: arial, sans-serif;
   margin-right: 20px;
   background-image: url("https://shots.codepen.io/leen624/pen/mdLjbbz-512.jpg?version=1664907060");
   background-size: cover;
@@ -32,7 +32,7 @@ section {
   border: 1px solid black;
   padding-left: 30px;
   margin: 30px auto;
-  background: rgba(27, 27, 50, 80%);
+  background: #1b1b32cc;
   display: block;
   border-radius: 7px;
 }
