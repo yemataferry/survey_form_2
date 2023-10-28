@@ -1,0 +1,86 @@
+h1 {
+  margin-bottom: 8px;
+  line-height: 1.2;
+  font-weight: 300;
+  font-size: 40px;
+}
+
+body {
+  background: none;
+  margin: 30px auto;
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: arial,sans-serif;
+  margin-right: 20px;
+}
+
+header {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+form {
+  margin-top: 70px;
+}
+
+section {
+  width: 700px;
+  border: 1px solid black;
+  padding-left: 30px;
+  margin: 30px auto; 
+  background: rgb(27, 27, 50, 0.8);
+  display: block;
+  border-radius: 7px;
+}
+
+.first {
+    width: 90%;
+    height: 30px;
+}
+
+.second {
+  width: 90%;
+  height:120px;
+  font-size: x-large;
+  box-sizing: border-box;
+  resize: vertical;
+}
+
+.third {
+  font-size: large;
+  width: 90%;
+  height:40px;
+  background-color: mediumseagreen;
+  color: white;  
+  cursor: pointer;
+}
+
+.feature {
+  font-size: 15px;
+  width: 90%;
+  height: 40px;
+}
+
+.role { 
+  font-size: 15px;
+  width: 90%;
+  height: 40px;
+}
+
+body {
+  background-image: url("https://shots.codepen.io/leen624/pen/mdLjbbz-512.jpg?version=1664907060");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.recom {
+  margin: 0 auto 18px auto;
+  padding: 4px;
+  font-size: small;
+}
+
+.improved {
+  margin: 0 auto 18px auto;
+  padding: 4px;
+}
