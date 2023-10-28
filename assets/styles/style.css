@@ -28,20 +28,20 @@ section {
   width: 700px;
   border: 1px solid black;
   padding-left: 30px;
-  margin: 30px auto; 
-  background: rgb(27, 27, 50, 0.8);
+  margin: 30px auto;
+  background: rgba(27, 27, 50, 80%);
   display: block;
   border-radius: 7px;
 }
 
 .first {
-    width: 90%;
-    height: 30px;
+  width: 90%;
+  height: 30px;
 }
 
 .second {
   width: 90%;
-  height:120px;
+  height: 120px;
   font-size: x-large;
   box-sizing: border-box;
   resize: vertical;
@@ -50,9 +50,9 @@ section {
 .third {
   font-size: large;
   width: 90%;
-  height:40px;
+  height: 40px;
   background-color: mediumseagreen;
-  color: white;  
+  color: white; 
   cursor: pointer;
 }
 
@@ -62,7 +62,7 @@ section {
   height: 40px;
 }
 
-.role { 
+.role {
   font-size: 15px;
   width: 90%;
   height: 40px;
@@ -82,5 +82,5 @@ body {
 
 .improved {
   margin: 0 auto 18px auto;
-  padding: 5px;
+  padding: 4px;
 }
