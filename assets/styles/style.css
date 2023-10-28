@@ -13,6 +13,9 @@ body {
   font-weight: 400;
   font-family: arial,sans-serif;
   margin-right: 20px;
+  background-image: url("https://shots.codepen.io/leen624/pen/mdLjbbz-512.jpg?version=1664907060");
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 header {
@@ -52,7 +55,7 @@ section {
   width: 90%;
   height: 40px;
   background-color: mediumseagreen;
-  color: white; 
+  color: white;
   cursor: pointer;
 }
 
@@ -68,19 +71,13 @@ section {
   height: 40px;
 }
 
-body {
-  background-image: url("https://shots.codepen.io/leen624/pen/mdLjbbz-512.jpg?version=1664907060");
-  background-size: cover;
-  background-attachment: fixed;
-}
-
 .recom {
-  margin: 0 auto 18px auto;
+  margin: 0 auto 18px;
   padding: 4px;
   font-size: small;
 }
 
 .improved {
-  margin: 0 auto 18px auto;
+  margin: 0 auto 18px;
   padding: 4px;
 }
